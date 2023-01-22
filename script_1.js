@@ -1,4 +1,4 @@
-// 1- Checking a number if it is between in a range of numbers
+// 1- Checking a number if it is between in a range of two numbers
 
 let number1 = -9;
 
